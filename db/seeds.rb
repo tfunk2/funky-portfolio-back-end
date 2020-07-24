@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Testimonial.create(name: "Kaitlyn", comment: "Tyler is an extremely dedicated worker.")
+Testimonial.create(name: "Mike", comment: "Details are Tyler's strong suit.")
+Testimonial.create(name: "Ethan", comment: "Well-rounded, good at everything he does.")
